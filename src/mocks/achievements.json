@@ -1,0 +1,61 @@
+[
+  {
+    "id": "first-echo",
+    "title": "First Echo",
+    "description": "Unlock your first cultural sound artifact in EchoMuse AR.",
+    "iconName": "Trophy",
+    "unlocked": true
+  },
+  {
+    "id": "rhythm-listener",
+    "title": "Rhythm Listener",
+    "description": "Experience the first rhythm echo of the Kompang.",
+    "iconName": "Drum",
+    "instrumentId": "kompang",
+    "unlocked": true
+  },
+  {
+    "id": "wind-echo",
+    "title": "Wind Echo",
+    "description": "Discover the sustained sound memory of the Serunai.",
+    "iconName": "Wind",
+    "instrumentId": "serunai",
+    "unlocked": true
+  },
+  {
+    "id": "string-memory",
+    "title": "String Memory",
+    "description": "Activate the string-based cultural echo of the Sape.",
+    "iconName": "Music",
+    "instrumentId": "sape",
+    "unlocked": true
+  },
+  {
+    "id": "heritage-collector",
+    "title": "Heritage Collector",
+    "description": "Collect all core sound artifacts in the EchoMuse AR gallery.",
+    "iconName": "Library",
+    "unlocked": false
+  },
+  {
+    "id": "ar-sound-pioneer",
+    "title": "AR Sound Pioneer",
+    "description": "Complete interactive sound exploration in AR mode.",
+    "iconName": "Star",
+    "unlocked": false
+  },
+  {
+    "id": "cultural-explorer",
+    "title": "Cultural Explorer",
+    "description": "Read the cultural story behind every discovered instrument.",
+    "iconName": "BookOpen",
+    "unlocked": false
+  },
+  {
+    "id": "echo-traveler",
+    "title": "Echo Traveler",
+    "description": "Spend time exploring cultural sound memories across the EchoMuse AR experience.",
+    "iconName": "Globe",
+    "unlocked": false
+  }
+]

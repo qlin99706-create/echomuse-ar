@@ -1,0 +1,70 @@
+[
+  {
+    "id": "kompang",
+    "name": "Kompang",
+    "category": "Percussion",
+    "origin": "Malay Peninsula",
+    "description": "Kompang is presented in EchoMuse AR as an interactive rhythm artifact. Users can explore its cultural role through 3D viewing, tap gestures, and responsive sound feedback.",
+    "history": "In EchoMuse AR, the Kompang is introduced as a community-based percussion instrument connected to Malay ceremonies, weddings, gatherings, and rhythmic storytelling. Instead of only reading about the instrument, users can experience its sound and cultural meaning through a mobile-first AR-style interface.",
+    "interactionType": "tap",
+    "gestures": ["Single Tap: Trigger Rhythm Echo"],
+    "modelPath": "/models/kompang.glb",
+    "audioPath": "/audio/kompang-sample.wav",
+    "illustration": "/images/illustrations/kompang-illustration.jpg",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "serunai",
+    "name": "Serunai",
+    "category": "Wind",
+    "origin": "Kelantan",
+    "description": "Serunai is presented in EchoMuse AR as a wind-based sound artifact. Users can discover its sharp melodic tone through 3D exploration, hold interaction, and immersive audio feedback.",
+    "history": "In EchoMuse AR, the Serunai is framed as a traditional wind instrument linked to performance, ritual atmosphere, and cultural storytelling. Its distinctive sound helps users understand how music can carry regional identity, emotion, and memory across generations.",
+    "interactionType": "blow",
+    "gestures": ["Hold: Sustain Wind Echo"],
+    "modelPath": "/models/serunai.glb",
+    "audioPath": "/audio/serunai-sample.wav",
+    "illustration": "/images/illustrations/serunai-illustration.jpg",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "sape",
+    "name": "Sape",
+    "category": "String",
+    "origin": "Sarawak (Borneo)",
+    "description": "Sape is presented in EchoMuse AR as a string-based cultural sound artifact. Users can explore its form, listen to its gentle tone, and activate sound through swipe-based interaction.",
+    "history": "In EchoMuse AR, the Sape is introduced as a traditional lute associated with the Orang Ulu community of Borneo. Its calm and flowing sound makes it suitable for storytelling, healing traditions, and social dances. The app transforms this cultural memory into an interactive 3D sound experience.",
+    "interactionType": "pluck",
+    "gestures": ["Swipe: Release String Echo"],
+    "modelPath": "/models/sape.glb",
+    "audioPath": "/audio/sape-sample.wav",
+    "illustration": "/images/illustrations/sape-illustration.jpg",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "locked-1",
+    "name": "Hidden Echo",
+    "category": "Mystery",
+    "origin": "Unknown",
+    "description": "Scan a heritage marker to reveal this hidden cultural sound artifact.",
+    "history": "",
+    "interactionType": "",
+    "gestures": [],
+    "modelPath": "",
+    "audioPath": "",
+    "difficulty": ""
+  },
+  {
+    "id": "locked-2",
+    "name": "Hidden Echo",
+    "category": "Mystery",
+    "origin": "Unknown",
+    "description": "Continue exploring EchoMuse AR to unlock more cultural sound memories.",
+    "history": "",
+    "interactionType": "",
+    "gestures": [],
+    "modelPath": "",
+    "audioPath": "",
+    "difficulty": ""
+  }
+]
