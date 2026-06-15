@@ -17,39 +17,14 @@ EchoMuse AR is designed as a digital sound museum. Instead of only reading infor
 * Achievement and user progress system
 * Glassmorphism-inspired high-fidelity UI design
 
-## Main Screens
 
-### Home
+## Product Experience
 
-The landing page introduces EchoMuse AR and guides users into the cultural sound journey.
+EchoMuse AR presents a premium mobile WebAR experience for cultural sound heritage. The project transforms traditional musical instruments into interactive digital artifacts through 3D visualization, gesture-based audio interaction, QR discovery, and progress-based exploration.
 
-### Login
+Rather than functioning as a static museum guide, EchoMuse AR creates a cohesive journey where users discover, explore, interact with, and collect cultural instruments in an immersive interface. The experience combines cultural storytelling with real-time 3D interaction, positioning the prototype as a scalable concept for museum education, digital heritage presentation, and mobile-first immersive learning.
 
-A prototype login screen that simulates user access and progress continuation.
 
-### Echo Gallery
-
-The main collection page where users can browse discovered instruments and hidden cultural artifacts.
-
-### Instrument Detail
-
-A focused page for each instrument, including category, origin, short description, 3D preview, and action buttons.
-
-### AR Sound Experience
-
-An interactive 3D viewer where users can rotate the instrument, listen to samples, and trigger sound feedback through gestures.
-
-### Cultural Story
-
-A reading page that explains the background, origin, and cultural context of each instrument.
-
-### Scanner
-
-A QR-style discovery page that simulates scanning cultural markers to unlock instruments.
-
-### Profile and Achievements
-
-A progress-tracking area where users can view discovered instruments, unlocked badges, and personal exploration status.
 
 ## Technology Stack
 
@@ -65,9 +40,7 @@ A progress-tracking area where users can view discovered instruments, unlocked b
 * html5-qrcode
 * lucide-react
 
-## My Customization
 
-This version has been customized into EchoMuse AR with a new project identity, revised page copy, updated theme positioning, redesigned content structure, and rewritten documentation. The project is positioned as an interactive cultural sound museum prototype rather than a general WebAR museum demo.
 
 ## How to Run
 
